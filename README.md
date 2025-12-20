@@ -8,11 +8,11 @@
 
 ## 💼 Technical Skills   
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Material](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -25,15 +25,7 @@
   <a href="https://www.instagram.com/chris.leny_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  
-
 </p>
 
 -----
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+
