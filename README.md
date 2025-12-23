@@ -1,10 +1,9 @@
 
-![]([https://github.com/halfrost/halfrost/blob/master/icons/header_.png](https://github.com/halfrost/halfrost/blob/master/icons/html-css-js.png))
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## Tecnologías
+## Tecnologías<br>
 
 ## 💼 Habilidades técnicas   
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
